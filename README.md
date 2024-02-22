@@ -1,7 +1,7 @@
 # COM3D2.UndressHerVR
 
 Undress your maids on screen with a simple button press.  
-You can personalize clothed states and add new ones.
+You can personalize clothed states and add new ones.  
 Compatible with VR controllers.
 
 ## How to Install:
